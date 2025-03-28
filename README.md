@@ -1,6 +1,6 @@
-**Cafe Finder**
+**Cafe Hunt**
 
-Cafe Finder is a web application designed to help users discover the best cafés in their area. The app utilizes location-based services to show nearby cafes, complete with ratings, reviews, and directions.
+Cafe Hunt is a web application designed to help users discover the best cafés in their area. The app utilizes location-based services to show nearby cafes, complete with ratings, reviews, and directions.
 
 
 **Features**
